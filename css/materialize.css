@@ -2617,7 +2617,10 @@ a {
   overflow: hidden;
   background-color: #e0e0e0;
 }
-
+.divider2 {
+  padding-left: 50px;
+  background-color: rgba(0,0,0,0);
+}
 blockquote {
   margin: 20px 0;
   padding-left: 1.5rem;
