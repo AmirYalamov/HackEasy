@@ -8580,3 +8580,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
     margin-bottom: 5em;
   }
 }
+
+.light{
+text-align: center;
+}
