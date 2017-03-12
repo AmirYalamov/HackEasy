@@ -4922,7 +4922,9 @@ small {
           transform-origin: 50% 0%;
   visibility: hidden;
 }
-
+.padding2{
+  padding-left: 50px
+}
 .btn, .btn-large,
 .btn-flat {
   border: none;
