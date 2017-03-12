@@ -1,2 +1,3 @@
 # HackEasy
-Woo we made it
+
+Made at StarterHacks 2017. Clone repository and run index.html
