@@ -3,6 +3,22 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
 */
+figure{
+    width:230px;
+    height:230px;
+    border-radius:50%;
+    overflow:hidden;
+}
+
+
+
+
+.thisText {
+  color: #ffffff;
+}
+
+
+
 .center2 {
     margin: auto;
 }
