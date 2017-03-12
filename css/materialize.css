@@ -3430,6 +3430,12 @@ nav ul a span.badge {
   left: auto;
   right: auto;
 }
+.row .col.stiny {
+  width: 10%;
+  margin-left: auto;
+  left: auto;
+  right: auto;
+}
 
 .row .col.s3 {
   width: 25%;
