@@ -2,26 +2,7 @@
  * Materialize v0.98.0 (http://materializecss.com)
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
-*/
-figure{
-    width:230px;
-    height:230px;
-    border-radius:50%;
-    overflow:hidden;
-}
-
-
-
-
-.thisText {
-  color: #ffffff;
-}
-
-
-
-.center2 {
-    margin: auto;
-}
+ */
  .color1 {
    background-color: #4990E2 !important;
  }
@@ -4938,9 +4919,7 @@ small {
           transform-origin: 50% 0%;
   visibility: hidden;
 }
-.padding2{
-  padding-left: 50px
-}
+
 .btn, .btn-large,
 .btn-flat {
   border: none;
@@ -4953,10 +4932,7 @@ small {
   vertical-align: middle;
   -webkit-tap-highlight-color: transparent;
 }
-.btn-big{
-  height: 180px;
-  width: 720px;
-}
+
 .btn.disabled, .disabled.btn-large,
 .btn-floating.disabled,
 .btn-large.disabled,
@@ -5743,7 +5719,7 @@ button:focus {
 
 label {
   font-size: 0.8rem;
-  color: white;
+  color: #9e9e9e;
 }
 
 /* Text Inputs + Textarea
@@ -5783,7 +5759,7 @@ input[type=search],
 textarea.materialize-textarea {
   background-color: transparent;
   border: none;
-  border-bottom: 1px solid white;
+  border-bottom: 1px solid #9e9e9e;
   border-radius: 0;
   outline: none;
   height: 3rem;
@@ -6071,7 +6047,7 @@ textarea.materialize-textarea + label:after {
 }
 
 .input-field label {
-  color: white;
+  color: #9e9e9e;
   position: absolute;
   top: 0.8rem;
   left: 0;
@@ -8621,4 +8597,15 @@ text-align: center;
 .card-content{
   text-align: center;
   font-weight: bold;
+}
+
+.card {
+    width: 21%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.row{
+  text-align: center;
 }
