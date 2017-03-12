@@ -8593,3 +8593,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 .light{
 text-align: center;
 }
+
+.card-content{
+  text-align: center;
+  font-weight: bold;
+}
