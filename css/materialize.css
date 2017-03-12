@@ -8627,3 +8627,14 @@ text-align: center;
 .row{
   text-align: center;
 }
+
+.sort{
+  height:20px;
+
+   width: 50%;
+   position:relative;
+   top:50%;
+   margin-left: 30%;
+   margin-right: 25%;
+
+}
