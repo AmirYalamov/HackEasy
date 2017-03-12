@@ -3,6 +3,12 @@
  * Copyright 2014-2015 Materialize
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
  */
+ .color1 {
+   background-color: #4990E2 !important;
+ }
+ .color2 {
+   background-color: #6EA9ED !important;
+ }
 .materialize-red {
   background-color: #e51c23 !important;
 }
@@ -4066,7 +4072,7 @@ nav .button-collapse i {
 
 nav .brand-logo {
   position: absolute;
-  color: #fff;
+  color: white-text;
   display: inline-block;
   font-size: 2.1rem;
   padding: 0;
