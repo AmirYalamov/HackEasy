@@ -27,6 +27,9 @@
   color: #fdeaeb !important;
 }
 
+.changeWhite {
+  color: #ffffff
+}
 .materialize-red.lighten-4 {
   background-color: #f8c1c3 !important;
 }
