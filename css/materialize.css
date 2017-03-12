@@ -5725,7 +5725,7 @@ button:focus {
 
 label {
   font-size: 0.8rem;
-  color: #9e9e9e;
+  color: white;
 }
 
 /* Text Inputs + Textarea
@@ -6053,7 +6053,7 @@ textarea.materialize-textarea + label:after {
 }
 
 .input-field label {
-  color: #9e9e9e;
+  color: white;
   position: absolute;
   top: 0.8rem;
   left: 0;
